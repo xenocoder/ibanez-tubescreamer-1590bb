@@ -620,34 +620,34 @@ Please make sure your boards conform to these design rules.</description>
 <attribute name="NAME" x="13.765" y="1.27" size="1.016" layer="25" ratio="12"/>
 </element>
 <element name="C1" library="mb_caps-chicklet" package="070X030" value="0.022uF" x="3.54" y="8.62" smashed="yes" rot="R90">
-<attribute name="NAME" x="3.54" y="7.731" size="1.27" layer="25" ratio="12" rot="R90"/>
+<attribute name="NAME" x="3.54" y="7.096" size="1.27" layer="25" ratio="12" rot="R90"/>
 </element>
 <element name="C11" library="mb_caps-electro" package="063_025" value="10uF" x="64.89" y="9.07" smashed="yes" rot="R270">
-<attribute name="NAME" x="62.096" y="10.594" size="1.27" layer="25" ratio="12" rot="R270"/>
+<attribute name="NAME" x="62.731" y="10.594" size="1.27" layer="25" ratio="12" rot="R270"/>
 </element>
 <element name="C7" library="mb_caps-electro" package="063_025" value="47uF" x="13.68" y="26.57" smashed="yes" rot="R270">
-<attribute name="NAME" x="10.886" y="27.459" size="1.27" layer="25" ratio="12" rot="R270"/>
+<attribute name="NAME" x="11.521" y="28.094" size="1.27" layer="25" ratio="12" rot="R270"/>
 </element>
 <element name="C12" library="mb_caps-electro" package="080_035" value="100uF" x="31.48" y="4.92" smashed="yes" rot="R270">
-<attribute name="NAME" x="28.813" y="6.444" size="1.27" layer="25" ratio="12" rot="R270"/>
+<attribute name="NAME" x="29.448" y="6.444" size="1.27" layer="25" ratio="12" rot="R270"/>
 </element>
 <element name="C2" library="mb_caps-box" package="072X035" value="1uF" x="43.95" y="14.36" smashed="yes" rot="R90">
 <attribute name="NAME" x="44.473" y="13.167" size="1.016" layer="25" ratio="12" rot="R90"/>
 </element>
 <element name="C3" library="mb_caps-chicklet" package="070X030" value="0.047uF" x="14.66" y="19.03" smashed="yes" rot="R270">
-<attribute name="NAME" x="14.025" y="19.919" size="1.27" layer="25" ratio="12" rot="R270"/>
+<attribute name="NAME" x="14.66" y="20.554" size="1.27" layer="25" ratio="12" rot="R270"/>
 </element>
 <element name="C4" library="mb_caps-ceramic" package="050X030_025" value="51pF" x="57.585" y="11.71" smashed="yes">
-<attribute name="NAME" x="57.7628" y="13.4118" size="1.27" layer="25" ratio="12"/>
+<attribute name="NAME" x="56.4928" y="13.4118" size="1.27" layer="25" ratio="12"/>
 </element>
 <element name="C5" library="mb_caps-box" package="072X035" value="0.22uF" x="33.73" y="23.82" smashed="yes" rot="R180">
-<attribute name="NAME" x="34.288" y="24.978" size="1.016" layer="25" ratio="12" rot="R180"/>
+<attribute name="NAME" x="34.923" y="24.343" size="1.016" layer="25" ratio="12" rot="R180"/>
 </element>
 <element name="C9" library="mb_caps-box" package="072X035" value="0.22uF" x="42.43" y="24.54" smashed="yes" rot="R90">
 <attribute name="NAME" x="42.953" y="23.347" size="1.016" layer="25" ratio="12" rot="R90"/>
 </element>
 <element name="C8" library="mb_caps-box" package="072X035" value="1uF" x="47.12" y="24.43" smashed="yes" rot="R270">
-<attribute name="NAME" x="45.962" y="24.988" size="1.016" layer="25" ratio="12" rot="R270"/>
+<attribute name="NAME" x="46.597" y="25.623" size="1.016" layer="25" ratio="12" rot="R270"/>
 </element>
 <element name="C10" library="mb_caps-box" package="072X035" value="0.1uF" x="30.25" y="16.89" smashed="yes" rot="R90">
 <attribute name="NAME" x="30.773" y="15.697" size="1.016" layer="25" ratio="12" rot="R90"/>
@@ -666,8 +666,8 @@ Please make sure your boards conform to these design rules.</description>
 <attribute name="NAME" x="62.845" y="35.305" size="1.27" layer="21" ratio="12" rot="R180"/>
 </element>
 <element name="IC31" library="mb_ics" package="DIL08" value="JRC4558D" x="59.29" y="21.7" smashed="yes" rot="R90">
-<attribute name="NAME" x="58.401" y="20.049" size="1.27" layer="25" font="vector" ratio="12" rot="R90"/>
-<attribute name="VALUE" x="61.195" y="17.509" size="1.27" layer="27" font="vector" ratio="12" rot="R90"/>
+<attribute name="NAME" x="59.036" y="18.779" size="1.27" layer="25" font="vector" ratio="12" rot="R90"/>
+<attribute name="VALUE" x="61.195" y="19.414" size="1.27" layer="27" font="vector" ratio="12" rot="R90"/>
 </element>
 <element name="IN" library="mb_supply" package="SQUARE" value="IN(T)" x="3.54" y="2.54" smashed="yes">
 <attribute name="NAME" x="1" y="1.5875" size="0.8128" layer="25" ratio="12"/>
