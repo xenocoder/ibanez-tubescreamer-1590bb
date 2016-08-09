@@ -53,7 +53,7 @@ UsedLibrary="/Users/ehowell/git/eagle-pedals/mb_library/mb_switches.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="107 246 1032 645"
+Loc="63 27 1246 655"
 State=2
 Number=0
 
