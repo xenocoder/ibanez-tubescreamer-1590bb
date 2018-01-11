@@ -1,0 +1,60 @@
+Partlist
+
+Exported from TubeScreamer.sch at 1/10/18 8:24 PM
+
+EAGLE Version 8.4.1 Copyright (c) 1988-2017 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Device       Package     Library          Sheet
+
++9V      +9V(T)         +9V(T)       SQUARE      mb_supply        1
+C1       0.022uF        070X0302     070X030     mb_caps-chicklet 1
+C2       1uF            072X0352     072X035     mb_caps-box      1
+C3       0.047uF        070X0302     070X030     mb_caps-chicklet 1
+C4       51pF           050X030_0251 050X030_025 mb_caps-ceramic  1
+C5       0.22uF         072X0352     072X035     mb_caps-box      1
+C7       47uF           0631         063_025     mb_caps-electro  1
+C8       1uF            072X0352     072X035     mb_caps-box      1
+C9       0.22uF         072X0352     072X035     mb_caps-box      1
+C10      0.1uF          072X0352     072X035     mb_caps-box      1
+C11      10uF           0631         063_025     mb_caps-electro  1
+C12      100uF          080          080_035     mb_caps-electro  1
+D1       1N914          1N914.3      DO35-3      mb_diodes        1
+D2       1N914          1N914.3      DO35-3      mb_diodes        1
+D4       LED3MM         LED3MM       LED3MM      mb_diodes        1
+D5       1N914          1N914.3      DO35-3      mb_diodes        1
+D6       LED3MM         LED3MM       LED3MM      mb_diodes        1
+D7       LED3MM         LED3MM       LED3MM      mb_diodes        1
+DRIVE    A500K          POT16MM      16MM        mb_pots          1
+GD2      GND(T)         GND(T)       SQUARE      mb_supply        1
+GND      GND(T)         GND(T)       SQUARE      mb_supply        1
+IC31     JRC4558D       LM4558N      DIL08       mb_ics           1
+IN       IN(T)          IN(T)        SQUARE      mb_supply        1
+LED      3mm            PAD          SQUARE      mb_supply        1
+OUT      OUT(T)         OUT(T)       SQUARE      mb_supply        1
+Q1       2N4401         2N3904       TO92-       mb_trans         1
+Q2       2N4401         2N3904       TO92-       mb_trans         1
+R1       1k             6MM.3        R0207/3     mb_resistors     1
+R2       510k           6MM.3        R0207/3     mb_resistors     1
+R3       10k            6MM.3        R0207/3     mb_resistors     1
+R5       10k            6MM.3        R0207/3     mb_resistors     1
+R6       4k7            6MM.3        R0207/3     mb_resistors     1
+R7       51k            6MM.3        R0207/3     mb_resistors     1
+R8       1k             6MM.3        R0207/3     mb_resistors     1
+R9       10k            6MM.3        R0207/3     mb_resistors     1
+R10      10k            6MM.3        R0207/3     mb_resistors     1
+R11      220R           6MM.3        R0207/3     mb_resistors     1
+R12      511k           6MM.3        R0207/3     mb_resistors     1
+R13      10k            6MM.3        R0207/3     mb_resistors     1
+R14      10k            6MM.3        R0207/3     mb_resistors     1
+R15      100R           6MM.3        R0207/3     mb_resistors     1
+R16      10k            6MM.3        R0207/3     mb_resistors     1
+R17      1k             6MM.3        R0207/3     mb_resistors     1
+R18      1k             6MM.3        R0207/3     mb_resistors     1
+R22      1M5            6MM.3        R0207/3     mb_resistors     1
+R23      4k7            6MM.3        R0207/3     mb_resistors     1
+SW1      DIODES         SPDT         M9040P      mb_switches      1
+SW2      FAT            SPDT         M9040P      mb_switches      1
+TONE     W20K           POT16MM      16MM        mb_pots          1
+VOLUME   A100K          POT16MM      16MM        mb_pots          1
