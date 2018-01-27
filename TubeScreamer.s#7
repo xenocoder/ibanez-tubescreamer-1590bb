@@ -2488,7 +2488,7 @@ Marquardt</description>
 <part name="D7" library="mb_diodes" deviceset="LED" device="3MM"/>
 <part name="D6" library="mb_diodes" deviceset="LED" device="3MM"/>
 <part name="SW1" library="mb_switches" deviceset="SPDT" device="" value="DIODES"/>
-<part name="SW2" library="mb_switches" deviceset="SPSTUNIT" device=""/>
+<part name="SW2" library="mb_switches" deviceset="SPSTUNIT" device="" value="FAT"/>
 </parts>
 <sheets>
 <sheet>

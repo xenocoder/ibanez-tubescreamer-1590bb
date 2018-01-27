@@ -2447,7 +2447,7 @@ Marquardt</description>
 <part name="D7" library="mb_diodes" deviceset="LED" device="3MM"/>
 <part name="D6" library="mb_diodes" deviceset="LED" device="3MM"/>
 <part name="SW1" library="mb_switches" deviceset="SPDT" device="" value="DIODES"/>
-<part name="SW2" library="mb_switches" deviceset="SPDT" device=""/>
+<part name="SW2" library="mb_switches" deviceset="SPDT" device="" value="FAT"/>
 <part name="GND1" library="mb_supply" deviceset="GND(T)" device=""/>
 </parts>
 <sheets>
@@ -2929,6 +2929,10 @@ Marquardt</description>
 </nets>
 </sheet>
 </sheets>
+<errors>
+<approved hash="104,1,73.66,71.12,IC31P,V+,+9V,,,"/>
+<approved hash="104,1,73.66,55.88,IC31P,V-,GND,,,"/>
+</errors>
 </schematic>
 </drawing>
 </eagle>
